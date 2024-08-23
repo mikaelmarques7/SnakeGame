@@ -28,11 +28,14 @@ body {
     align-items: center;
     gap: 20px;
     position: relative;
+    width: 100%;
+    max-width: 1000px;
 }
 
 #gameCanvas {
     border: 2px solid #fff;
-    max-width: 400px;
+    width: 100%;
+    max-width: 100%;
     max-height: 80vh;
 }
 
@@ -134,8 +137,8 @@ body {
 }
 
 .control-button {
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 60px;
     font-size: 40px;
     background-color: #ff4400b6;
     color: #fff;
@@ -181,9 +184,9 @@ body {
     }
 
     .control-button {
-        width: 40px;
-        height: 40px;
-        font-size: 40px;
+        width: 70px;
+        height: 70px;
+        font-size: 45px;
         margin: 8px;
     }
 
@@ -206,9 +209,9 @@ body {
     }
 
     .control-button {
-        width: 35px;
-        height: 35px;
-        font-size: 20px;
+        width: 80px;
+        height: 80px;
+        font-size: 50px;
         margin: 5px;
     }
 
