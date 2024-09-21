@@ -11,6 +11,6 @@ Este é um projeto de um clássico jogo da cobrinha, desenvolvido em HTML, CSS e
 
 ## Tecnologias Utilizadas
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
